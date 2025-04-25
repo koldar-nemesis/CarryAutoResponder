@@ -1,0 +1,9 @@
+## Interface: 100200
+## Title: CarryAutoResponder
+## Notes: Automatically responds to whispers when you're in a dungeon or raid
+## Author: Your Name
+## Version: 1.0
+## DefaultState: enabled
+## SavedVariables: CarryAutoResponderDB
+
+CarryAutoResponder.lua
